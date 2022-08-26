@@ -16,9 +16,9 @@ BOT_TOKEN = get_env('BOT_TOKEN')
 # Messages
 
 SOURCE = "\n\nSource: [Telegram Files to Cloud](https://t.me/EpicBotsSl)"
-START = "\n\n**~~This bot uploads telegram files to a third-party server~~**.\n\nAdmin: __[wisul](" \
-        "tg://user?id=429320566)__"
-ERROR = "something is went wrong\n{error} \ncontact admin __[Abhijith](tg://user?id=5246051676)__"
+START = "\n\n**~~This bot uploads telegram files to a third-party server~~**.\n\nAdmin: __[wisula](" \
+        "tg://user?id=5246051676)__"
+ERROR = "something is went wrong\n{error} \ncontact admin __[Wisula](tg://user?id=5246051676)__"
 HELP = "\n\nUsage: **Send any file or bot. Then select the third-party Cloud you want to upload to.**"
 
 
